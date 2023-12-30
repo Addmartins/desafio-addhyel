@@ -9,6 +9,6 @@ Steps to run this project:
 
 ### Routers
 
-GET - ( /resultados )
-POST - ( /resultados )
-DELETE - ( /resultados/:id )
+- GET - ( /resultados )
+- POST - ( /resultados )
+- DELETE - ( /resultados/:id )
