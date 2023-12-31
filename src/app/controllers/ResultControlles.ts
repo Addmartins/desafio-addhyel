@@ -1,7 +1,7 @@
 import { Request, Response, Router } from "express";
 import { Resultado } from "../entities/Result";
 import ResultRepository from "../repositories/ResultRepository";
-import { IResult, Bimestre, Disciplina } from "../interface/IResult";
+import { Bimestre, Disciplina } from "../interface/IResult";
 
 const resultRouter = Router();
 
